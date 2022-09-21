@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/73640124?v=4" width="100"/>  
   <img src = "https://komarev.com/ghpvc/?username=FedericoSlongo">
 </div>

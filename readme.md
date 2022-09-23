@@ -3,4 +3,5 @@
 <img src = "https://komarev.com/ghpvc/?username=FedericoSlongo">   </br>  
 👋 Hi, I’m Federico Slongo 💖 I’m interested in writing garbage code 💖 🌱 I’m currently learning C#, C (and the very basics of Java and Assembly)   </br>   
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=FedericoSlongo&theme=light&background=CDF5F6">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoSlongo&layout=compact>
 </div>

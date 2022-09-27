@@ -5,7 +5,7 @@
 
 - I’m currently learning C#, C (and the very basics of Java and Assembly)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FedericoSlongo&show_icons=true&locale=en&layout=compact" alt="FedericoSlongo" /></p>
 

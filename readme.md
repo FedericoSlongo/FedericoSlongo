@@ -18,5 +18,5 @@
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=federicoslongo&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 <p align = "center">
-![gif be like](./didnt-ask-ratio.gif)
+<img src = "./didnt-ask-ratio.gif">
   </p>

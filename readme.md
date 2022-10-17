@@ -17,3 +17,5 @@
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=federicoslongo&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+<img src = "https://c.tenor.com/t8DBfnT5H0gAAAAC/didnt-ask-ratio.gif">

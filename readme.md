@@ -18,4 +18,4 @@
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=federicoslongo&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-![gif be like](https://c.tenor.com/t8DBfnT5H0gAAAAC/didnt-ask-ratio.gif)
+![gif be like](./didnt-ask-ratio.gif)

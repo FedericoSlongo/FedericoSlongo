@@ -5,8 +5,8 @@
 
 - I’m currently learning C#, C (and the very basics of Java and Assembly)
 
-<h3 align="left">Languages:</h3>
 <div align = "center"><br>
+  <h3 align="left">Languages:</h3><br>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FedericoSlongo&show_icons=true&locale=en&layout=compact"/></p><br>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FedericoSlongo&show_icons=true&locale=en"/></p><br>

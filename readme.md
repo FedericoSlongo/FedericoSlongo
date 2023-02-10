@@ -12,7 +12,7 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FedericoSlongo&"/></p>
 
-<p><img align="center" src="https://raw.githubusercontent.com/FedericoSlongo/FedericoSlongo/output/github-contribution-grid-snake.svg" alt="snake" /></p>
+//<p><img align="center" src="https://raw.githubusercontent.com/FedericoSlongo/FedericoSlongo/output/github-contribution-grid-snake.svg" alt="snake" /></p>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=federicoslongo&theme=discord&no-frame=false&no-bg=true&margin-w=4)

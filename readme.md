@@ -8,12 +8,7 @@
 
   <h3 align="left">Languages I use the most :</h3><br>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FedericoSlongo&show_icons=true&locale=en&layout=compact"/></p>
-
-
-<!---<p><img align="center" src="https://raw.githubusercontent.com/FedericoSlongo/FedericoSlongo/output/github-contribution-grid-snake.svg" alt="snake" /></p>--->
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=federicoslongo&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<br>
 <p align = "center">
 <img src = "./postal-postal2.gif">
-  </p>
+  </p>  
